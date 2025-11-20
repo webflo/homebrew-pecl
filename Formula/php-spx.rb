@@ -1,7 +1,7 @@
 require_relative "../lib/php_pecl_formula"
 
 class PhpSpx < PhpPeclFormula
-  extension_dsl "SPX - A simple profiler for PHP"
+  extension_dsl "A simple & straight-to-the-point PHP profiling extension with its built-in web UI"
 
   homepage "https://github.com/NoiseByNorthwest/php-spx"
   url "https://github.com/NoiseByNorthwest/php-spx/archive/refs/tags/v0.4.20.tar.gz"
